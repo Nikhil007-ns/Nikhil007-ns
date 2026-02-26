@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Chethan
 
-<!--
-**Nikhil007-ns/Nikhil007-ns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineer  
+💻 Embedded Software Engineer (Fresher)  
+📍 Karnataka, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 Currently building Embedded Systems projects
+- 🌱 Strong in Embedded C & C++
+- 💡 Interested in Automotive & Defence Embedded Systems
+- 🔧 Worked on Integrated Data Acquisition Systems 
+- 🔧 Worked on Vehicle-to-Vehicle Communication using IoT
+- 📚 Learning Git, RTOS & Advanced MCU peripherals
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Programming
+- c/c++ programming
+- Embedded C
+- Embedded C++
+- Basic C++
